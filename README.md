@@ -1,4 +1,7 @@
-# Food-Delivery-Application
+                                                       Food Delivery System
+                                                    --------------------------
+
+
 Java desktop application for managing a food delivery system
 
 ## Easily manage a food delivery system through a minimalistic interface
